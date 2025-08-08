@@ -1,0 +1,8 @@
+.venv/
+.env
+.dockerignore
+.idea
+__pycache__
+config-secrets-encoded.yaml
+config-secrets.yaml
+redis_values.yaml
